@@ -1,4 +1,4 @@
 GitResources
 ============
 
-Some resources to use Git + Github better. 
+Some resources to help you master Git + Github. 
