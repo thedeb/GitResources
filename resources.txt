@@ -1,0 +1,3 @@
+Github's help documents  https://help.github.com/
+Git's documentation  http://git-scm.com/documentation
+In-browser Git sampler  http://try.github.io/levels/1/challenges/1
