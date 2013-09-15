@@ -1,3 +1,4 @@
 Github's help documents  https://help.github.com/
 Git's documentation  http://git-scm.com/documentation
 In-browser Git sampler  http://try.github.io/levels/1/challenges/1
+http://shop.oreilly.com/product/0636920024774.do
